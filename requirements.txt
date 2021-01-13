@@ -3,7 +3,7 @@ certifi==2017.4.17
 click==6.7
 gitdb2==2.0.2
 GitPython==2.1.5
-Jinja2==2.9.6
+Jinja2==2.10.1
 livereload==2.5.1
 Markdown==2.6.8
 MarkupSafe==1.0
