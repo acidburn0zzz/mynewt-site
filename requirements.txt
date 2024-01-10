@@ -2,7 +2,7 @@ backports-abc==0.5
 certifi==2017.4.17
 click==6.7
 gitdb2==2.0.2
-GitPython==2.1.5
+GitPython==3.1.41
 Jinja2==2.9.6
 livereload==2.5.1
 Markdown==2.6.8
